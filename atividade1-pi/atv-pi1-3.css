@@ -1,0 +1,15 @@
+.div1 {
+    background-color: rgb(226, 117, 117); width: 470px; height: 470px;
+}
+.div2 {
+    background-color: rgb(255, 242, 123); width: 43%; height: 48%;
+}
+p {
+    color: #000000; background-color: #19c77f; font-size: 23px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-weight: bold;
+}
+.div3 {
+    background-color: rgb(101, 94, 199); width: 37%; height: 55vh;
+}
+.div4 {
+    background-color: rgb(164, 228, 121); width: 65vw; height: 60%;
+}
